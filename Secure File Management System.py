@@ -9,7 +9,7 @@ from cryptography.fernet import Fernet
 from getpass import getpass
 from datetime import datetime
 
-# Generate encryption key
+# Generate encryption key lol
 KEY_FILE = "key.key"
 if not os.path.exists(KEY_FILE):
     with open(KEY_FILE, "wb") as key_file:
