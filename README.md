@@ -31,8 +31,8 @@ This project is a **Secure File Management System** that provides robust securit
 ### Running the Program
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/secure-file-management.git
-   cd secure-file-management
+   git clone https://github.com/anshikaraj08/OS-CA.git
+   cd OS-CA
    ```
 2. **Run the Program**
    ```bash
