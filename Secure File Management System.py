@@ -20,7 +20,7 @@ else:
         key = key_file.read()
 fernet = Fernet(key)
 
-# User database (for demonstration purposes)
+# User database (for demonstration purposes) 
 USER_DB = "users.json"
 if not os.path.exists(USER_DB):
     with open(USER_DB, "w") as f:
